@@ -1,0 +1,23 @@
+.container {
+    margin: auto 155px;
+}
+body {
+    background-color: black;
+    color: #FF0099;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.logo {
+    width: 200px;
+    height: 130px;
+}
+.ul-nav {
+    display: flex;
+    gap: 60px;
+    list-style: none;
+}
+.main-nav {
+    display: flex;
+    align-items: center;
+    gap: 160px;
+
+}
